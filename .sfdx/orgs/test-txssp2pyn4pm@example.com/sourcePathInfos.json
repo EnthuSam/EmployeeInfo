@@ -1,0 +1,259 @@
+[
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560504007226,
+            "changeTime": 1560504007226,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560504007226,
+            "changeTime": 1560504007226,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560755069316,
+            "changeTime": 1560755069316,
+            "contentHash": "a99b08e3d2d6efd88c4b56f5f01b594674d06db0"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560504007226,
+            "changeTime": 1560504007226,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560504007230,
+            "changeTime": 1560504007230,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560507910507,
+            "changeTime": 1560507910507,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2102,
+            "modifiedTime": 1560755069280,
+            "changeTime": 1560755069280,
+            "contentHash": "50931e90bca90012ecf75bb4309926388322db74"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\fields\\First_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1560755069284,
+            "changeTime": 1560755069284,
+            "contentHash": "3a9a085bedea3f4a1b84525017d991e377c7dcb2"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\fields\\Last_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\fields\\Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1560755069288,
+            "changeTime": 1560755069288,
+            "contentHash": "dd13c29d46ef655cc34b65778026c17f52c86156"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2933,
+            "modifiedTime": 1560755069308,
+            "changeTime": 1560755069308,
+            "contentHash": "d282c461ac07d22172c006dbdef1559f71136c43"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4871,
+            "modifiedTime": 1560755069324,
+            "changeTime": 1560755069324,
+            "contentHash": "7cf4d308bdc00bf44a505f50ccb594c9db303e9d"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5209,
+            "modifiedTime": 1560755069340,
+            "changeTime": 1560755069340,
+            "contentHash": "566a586f84e3c6ff28ed2a8f56805d5b16c7dc05"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4871,
+            "modifiedTime": 1560755069356,
+            "changeTime": 1560755069356,
+            "contentHash": "7cf4d308bdc00bf44a505f50ccb594c9db303e9d"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20077,
+            "modifiedTime": 1560755069404,
+            "changeTime": 1560755069404,
+            "contentHash": "864bf0a079b3c6dfba3b54e8251801e12eca6fc6"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560755069280,
+            "changeTime": 1560755069280,
+            "contentHash": "e20ebabb66b9d4ddd2c52acd067d36f96eaf7023"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560755069276,
+            "changeTime": 1560755069276,
+            "contentHash": "b55e89b820e04112537fad94f319312e07f6509e"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\objects\\Employee__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560755069288,
+            "changeTime": 1560755069288,
+            "contentHash": "5ab171fb63b644959a6b6e9d7b54a44c97811267"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560755069308,
+            "changeTime": 1560755069308,
+            "contentHash": "3bd159f19c78bea1ad7b7576539f20f840379339"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\EmployeeProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560755069400,
+            "changeTime": 1560755069400,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
